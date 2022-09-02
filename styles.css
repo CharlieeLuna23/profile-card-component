@@ -75,7 +75,7 @@ body {
 }
 
 .profile-info > p {
-  font-size: 0.8em;
+  font-size: 0.6em;
   letter-spacing: 1px;
   margin: 0;
 }
@@ -107,7 +107,7 @@ body {
 }
 
 .profile-stats > div > p {
-  font-size: 0.6em;
+  font-size: 0.5em;
   letter-spacing: 2px;
 }
 
